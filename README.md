@@ -1,6 +1,8 @@
 # Oh, hello there!
 
-Hi, and Welcome to my Github! I'm Erinea, an emerging Software Developer and an aspiring Full Stack Developer. I have one year's experience in coding and I'm a graduate of General Assembly's Software Engineering Immersive course. I'm currently seeking opportunities in front-end development in Melbourne, and I'm also open to remote work. 
+Hi, and Welcome to my Github! I'm Erinea, an emerging Software Developer and an aspiring Full Stack Developer. I have one year's experience in coding and I am also a graduate of General Assembly's Software Engineering Immersive course. 
+
+I'm currently seeking opportunities in front-end development in Melbourne. 
 
 ## Current Projects
 
