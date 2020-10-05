@@ -9,6 +9,7 @@ I'm currently seeking opportunities in front-end development in Melbourne.
 I'm passionate about accessibility and inclusion on the web. I'm currently participating in the <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a>, a 4 week immersive online Design Hackathon experience where myself and my four teammates tackle a challenge to develop tech and innnovation for inclusion of people with disabilities. We have selected the challenge listed below regarding eSports. 
 
 Challenge #3 - Inclusive eSports
+<br>
 How might we enable greater inclusion and access to eSports for people with disability to build competitive skills, connect with others and create identity as part of the gaming community?
 
 Stay tuned to hear about our progress! 
